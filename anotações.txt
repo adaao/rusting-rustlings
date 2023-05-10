@@ -1,0 +1,8 @@
+rust by exemples:
+https://doc.rust-lang.org/rust-by-example/index.html
+
+rusting repo:
+https://github.com/rust-lang/rustlings/
+
+fazendo os exercícios:
+https://github.com/rust-lang/rustlings/#doing-exercises
